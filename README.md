@@ -5,8 +5,8 @@ Basics of programming assignment 5
 
 Fill here:
 
-- Name
-- Group
+- Danylo
+- team A
 
 ## Description of the project
 
